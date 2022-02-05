@@ -25,7 +25,7 @@ export default function Home () {
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Апалон Каликстович Великий" />
         <meta property="og:description" content="Апалон Каликстович Великий, как стать великим человеком, Апалон, Каликстович, Великий" />
-        <meta property="og:image" content="https://my-next-js-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgraphic.5b89b59c.svg&w=1200&q=75" />
+        <meta property="og:image" content="https://my-next-js-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgraphic33.c6e23ce1.jpg&w=1920&q=75" />
         <meta property="og:image:width" content="400" />
         <meta property="og:image:height" content="300" />
         <meta property="og:url" content="https://my-next-js-ten.vercel.app/ " />
