@@ -12,9 +12,9 @@ export const OurBots = () =>
         <div className='w-10 h-10 mr-4'>
           <Image src={sectionImg} alt='icon simple graphic' />
         </div>
-        <p className='self-center text-3xl font-bold'>
-          Our Bots
-        </p>
+        <h1 className='self-center text-3xl font-bold'>
+          Апалон Каликстович Великий
+        </h1>
       </div>
       <DCA />
       <Grid />
