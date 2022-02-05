@@ -1,4 +1,4 @@
-import graphic from '../../../public/graphic.svg'
+import graphic from '../../../public/graphic33.jpg'
 import { ButtonOutliner } from '../../buttons/ButtonOutliner/ButtonOutliner'
 import Image from 'next/image'
 
