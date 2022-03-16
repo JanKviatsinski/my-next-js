@@ -13,7 +13,7 @@ export const OurBots = () =>
           <Image src={sectionImg} alt='icon simple graphic' />
         </div>
         <h1 className='self-center text-3xl font-bold'>
-          Апалон Каликстович Великий
+          OurBots
         </h1>
       </div>
       <DCA />
